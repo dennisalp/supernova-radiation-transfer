@@ -1,2 +1,3 @@
 # supernova-radiation-transfer
-Radioactive X-ray and gamma-ray radiation transfer in young supernovae using 3D neutrino-driven explosion simulations
+
+Code used in [Dennis Alp et al 2019 ApJ 882 22](https://iopscience.iop.org/article/10.3847/1538-4357/ab3395).
